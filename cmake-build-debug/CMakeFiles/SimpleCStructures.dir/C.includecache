@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MacBook/ClionProjects/SimpleCStructures/SPArrayList.h
+stddef.h
+-
+
+/Users/MacBook/ClionProjects/SimpleCStructures/SPHashMap.h
+SPArrayList.h
+/Users/MacBook/ClionProjects/SimpleCStructures/SPArrayList.h
+
+/Users/MacBook/ClionProjects/SimpleCStructures/main.c
+SPArrayList.h
+/Users/MacBook/ClionProjects/SimpleCStructures/SPArrayList.h
+SPHashMap.h
+/Users/MacBook/ClionProjects/SimpleCStructures/SPHashMap.h
+stdio.h
+-
+

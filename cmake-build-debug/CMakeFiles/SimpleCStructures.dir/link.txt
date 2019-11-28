@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/SimpleCStructures.dir/main.c.o CMakeFiles/SimpleCStructures.dir/SPArrayList.c.o CMakeFiles/SimpleCStructures.dir/SPLinkedList.c.o CMakeFiles/SimpleCStructures.dir/SPHashMap.c.o  -o SimpleCStructures 
